@@ -11,6 +11,7 @@ When dealing with potentially personal information, user privacy is of the utmos
  * Send client public key for receiving user
  * Receive encrypted image from client
  * Send encrypted image to receiving user
+
 ## TODO
 Basically everything
 ## Disclaimer
